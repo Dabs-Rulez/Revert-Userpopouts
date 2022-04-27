@@ -1,0 +1,8 @@
+{
+  "name": "Revert Userpopouts",
+  "description": "Reverts Discord's Userpopouts before May 20 2021",
+  "version": "1.0",
+  "author": "Dabs Rulez",
+  "license": "MIT",
+  "theme": "Revert-Userpopouts.css"
+}
